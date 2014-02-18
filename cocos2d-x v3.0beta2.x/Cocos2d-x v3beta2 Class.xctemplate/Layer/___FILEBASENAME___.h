@@ -11,7 +11,7 @@
 
 #include "cocos2d.h"
 
-class ___FILEBASENAME___ : public cocos2d::___VARIABLE_cocos2DXv3Subclass:identifier___
+class ___FILEBASENAME___ : public cocos2d::___VARIABLE_cocos2DXv3b2Subclass:identifier___
 {
     
 public:

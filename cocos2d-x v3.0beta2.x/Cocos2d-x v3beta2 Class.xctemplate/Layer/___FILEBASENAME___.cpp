@@ -31,7 +31,7 @@ Scene* ___FILEBASENAME___::scene()
 
 bool ___FILEBASENAME___::init()
 {
-    if (! ___VARIABLE_cocos2DXv3Subclass:identifier___::init()) {
+    if (! ___VARIABLE_cocos2DXv3b2Subclass:identifier___::init()) {
         return false;
     }
     
