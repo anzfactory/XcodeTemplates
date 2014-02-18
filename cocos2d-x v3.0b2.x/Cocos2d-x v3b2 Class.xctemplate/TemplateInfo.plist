@@ -10,7 +10,7 @@
 			<key>Description</key>
 			<string>継承するクラスを入力してね！</string>
 			<key>Identifier</key>
-			<string>cocos2DXv3Subclass</string>
+			<string>cocos2DXv3b2Subclass</string>
 			<key>Name</key>
 			<string>継承クラス：</string>
 			<key>Required</key>
