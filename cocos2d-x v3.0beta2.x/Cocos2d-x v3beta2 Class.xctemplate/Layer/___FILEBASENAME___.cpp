@@ -21,7 +21,7 @@ ___FILEBASENAME___::~___FILEBASENAME___()
     
 }
 
-Scene* ___FILEBASENAME___::scene()
+Scene* ___FILEBASENAME___::createScene()
 {
     auto scene = CCScene::create();
 	auto layer = ___FILEBASENAME___::create();

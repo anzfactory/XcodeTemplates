@@ -18,7 +18,7 @@ public:
     ___FILEBASENAME___();
     virtual ~___FILEBASENAME___();
     virtual bool init();
-    static cocos2d::Scene* scene();
+    static cocos2d::Scene* createScene();
     CREATE_FUNC(___FILEBASENAME___);
     
 protected:
